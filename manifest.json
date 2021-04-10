@@ -1,0 +1,10 @@
+{
+	"id": "display-text-to-alias",
+	"name": "Display Text To Alias",
+	"version": "0.0.1",
+	"minAppVersion": "0.9.12",
+	"description": "Alias updater from link display text. Updates page aliases on document save",
+	"author": "Pavel Batanov",
+	"authorUrl": "https://github.com/scaytrase",
+	"isDesktopOnly": false
+}
